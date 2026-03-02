@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "世界で一番ポがでる歌",
+  "base_artist": "家入ポポ",
+  "createdAt": "2026-03-02T18:12:14.151463Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界で一番ポがでる歌",
+      "artist": "家入ポポ",
+      "has_synced": false,
+      "path": "select/pl_01_世界で一番ポがでる歌_家入ポポ.txt"
+    }
+  ]
+}
